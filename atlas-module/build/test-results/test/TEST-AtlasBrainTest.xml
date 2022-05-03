@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AtlasBrainTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-04-19T16:40:26" hostname="LAPTOP-2HOTK91M" time="0.02">
+  <properties/>
+  <testcase name="get_response1()" classname="AtlasBrainTest" time="0.018"/>
+  <testcase name="get_response2()" classname="AtlasBrainTest" time="0.001"/>
+  <testcase name="get_response3()" classname="AtlasBrainTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

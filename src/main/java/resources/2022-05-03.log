@@ -1,0 +1,8 @@
+2022-05-03 17:46:21 [main] com.clivern.wit.Wit.send()
+INFO: > curl -XGET 'https://api.wit.ai/apps?v=20180225&offset=0&limit=500' -H "Authorization: Bearer " -H "Content-Type: application/json"
+2022-05-03 17:47:16 [main] com.clivern.wit.Wit.send()
+INFO: > curl -XGET 'https://api.wit.ai/apps?v=20180225&offset=0&limit=500' -H "Authorization: Bearer " -H "Content-Type: application/json"
+2022-05-03 17:47:52 [main] com.clivern.wit.Wit.send()
+INFO: > curl -XGET 'https://api.wit.ai/apps?v=20180225&offset=0&limit=500' -H "Authorization: Bearer " -H "Content-Type: application/json"
+2022-05-03 17:48:28 [main] com.clivern.wit.Wit.send()
+INFO: > curl -XGET 'https://api.wit.ai/apps?v=20180225&offset=0&limit=500' -H "Authorization: Bearer " -H "Content-Type: application/json"

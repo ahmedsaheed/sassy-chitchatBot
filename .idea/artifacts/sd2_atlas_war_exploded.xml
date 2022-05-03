@@ -1,0 +1,106 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="sd2-atlas:war exploded">
+    <output-path>$PROJECT_DIR$/atlas-module/out/artifacts/sd2_atlas_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="sd2-atlas/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="sd2-atlas" />
+          <element id="module-output" name="atlas-module.main" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: org.junit.jupiter:junit-jupiter:5.8.1" />
+          <element id="library" level="project" name="Gradle: com.squareup.okhttp3:mockwebserver:4.9.3" />
+          <element id="library" level="project" name="Gradle: com.clivern:wit-java:1.0.0" />
+          <element id="library" level="project" name="Gradle: com.squareup.okhttp3:okhttp:4.9.3" />
+          <element id="library" level="project" name="Gradle: com.google.cloud:google-cloud-storage:2.6.0" />
+          <element id="library" level="project" name="Gradle: com.google.code.gson:gson:2.9.0" />
+          <element id="library" level="project" name="Gradle: org.json:json:20140107" />
+          <element id="library" level="project" name="Gradle: com.alphacephei:vosk:0.3.33" />
+          <element id="library" level="project" name="Gradle: net.java.dev.jna:jna:5.7.0" />
+          <element id="library" level="project" name="Gradle: com.google.cloud:google-cloud-texttospeech:2.2.0" />
+          <element id="library" level="project" name="Gradle: javazoom:jlayer:1.0.1" />
+          <element id="library" level="project" name="Gradle: com.google.cloud:google-cloud-speech:2.2.12" />
+          <element id="library" level="project" name="Gradle: javax.servlet.jsp.jstl:javax.servlet.jsp.jstl-api:1.2.1" />
+          <element id="library" level="project" name="Gradle: org.junit.jupiter:junit-jupiter-params:5.8.1" />
+          <element id="library" level="project" name="Gradle: org.junit.jupiter:junit-jupiter-api:5.8.1" />
+          <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.4.10" />
+          <element id="library" level="project" name="Gradle: junit:junit:4.13" />
+          <element id="library" level="project" name="Gradle: org.tinylog:tinylog:1.3.2" />
+          <element id="library" level="project" name="Gradle: com.squareup.okio:okio:2.8.0" />
+          <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.4.10" />
+          <element id="library" level="project" name="Gradle: com.google.protobuf:protobuf-java:3.19.4" />
+          <element id="library" level="project" name="Gradle: com.google.protobuf:protobuf-java-util:3.19.4" />
+          <element id="library" level="project" name="Gradle: com.google.auto.value:auto-value-annotations:1.9" />
+          <element id="library" level="project" name="Gradle: com.google.auth:google-auth-library-credentials:1.6.0" />
+          <element id="library" level="project" name="Gradle: com.google.auth:google-auth-library-oauth2-http:1.6.0" />
+          <element id="library" level="project" name="Gradle: com.google.cloud:google-cloud-core:2.5.11" />
+          <element id="library" level="project" name="Gradle: com.google.cloud:google-cloud-core-http:2.5.11" />
+          <element id="library" level="project" name="Gradle: com.google.guava:guava:31.1-jre" />
+          <element id="library" level="project" name="Gradle: com.google.http-client:google-http-client:1.41.5" />
+          <element id="library" level="project" name="Gradle: com.google.http-client:google-http-client-apache-v2:1.41.5" />
+          <element id="library" level="project" name="Gradle: com.google.http-client:google-http-client-appengine:1.41.5" />
+          <element id="library" level="project" name="Gradle: com.google.http-client:google-http-client-gson:1.41.5" />
+          <element id="library" level="project" name="Gradle: com.google.http-client:google-http-client-jackson2:1.41.5" />
+          <element id="library" level="project" name="Gradle: io.grpc:grpc-context:1.45.0" />
+          <element id="library" level="project" name="Gradle: com.google.api:api-common:2.1.5" />
+          <element id="library" level="project" name="Gradle: com.google.api:gax:2.13.0" />
+          <element id="library" level="project" name="Gradle: com.google.api:gax-httpjson:0.98.0" />
+          <element id="library" level="project" name="Gradle: com.google.api.grpc:proto-google-common-protos:2.8.0" />
+          <element id="library" level="project" name="Gradle: com.google.api.grpc:proto-google-iam-v1:1.2.10" />
+          <element id="library" level="project" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" />
+          <element id="library" level="project" name="Gradle: javax.annotation:javax.annotation-api:1.3.2" />
+          <element id="library" level="project" name="Gradle: com.google.guava:failureaccess:1.0.1" />
+          <element id="library" level="project" name="Gradle: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" />
+          <element id="library" level="project" name="Gradle: org.checkerframework:checker-qual:3.21.3" />
+          <element id="library" level="project" name="Gradle: com.google.j2objc:j2objc-annotations:1.3" />
+          <element id="library" level="project" name="Gradle: org.threeten:threetenbp:1.6.0" />
+          <element id="library" level="project" name="Gradle: io.opencensus:opencensus-contrib-http-util:0.31.0" />
+          <element id="library" level="project" name="Gradle: com.google.api-client:google-api-client:1.33.4" />
+          <element id="library" level="project" name="Gradle: com.google.oauth-client:google-oauth-client:1.33.1" />
+          <element id="library" level="project" name="Gradle: com.google.apis:google-api-services-storage:v1-rev20220210-1.32.1" />
+          <element id="library" level="project" name="Gradle: io.opencensus:opencensus-api:0.31.0" />
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.13.2" />
+          <element id="library" level="project" name="Gradle: com.google.api.grpc:proto-google-cloud-texttospeech-v1:2.2.0" />
+          <element id="library" level="project" name="Gradle: com.google.api.grpc:proto-google-cloud-texttospeech-v1beta1:0.91.0" />
+          <element id="library" level="project" name="Gradle: io.grpc:grpc-api:1.45.0" />
+          <element id="library" level="project" name="Gradle: io.grpc:grpc-protobuf:1.45.0" />
+          <element id="library" level="project" name="Gradle: io.grpc:grpc-protobuf-lite:1.45.0" />
+          <element id="library" level="project" name="Gradle: io.grpc:grpc-stub:1.45.0" />
+          <element id="library" level="project" name="Gradle: com.google.api:gax-grpc:2.13.0" />
+          <element id="library" level="project" name="Gradle: com.google.errorprone:error_prone_annotations:2.11.0" />
+          <element id="library" level="project" name="Gradle: com.google.api.grpc:proto-google-cloud-speech-v1:2.2.12" />
+          <element id="library" level="project" name="Gradle: com.google.api.grpc:proto-google-cloud-speech-v1beta1:0.86.12" />
+          <element id="library" level="project" name="Gradle: com.google.api.grpc:proto-google-cloud-speech-v1p1beta1:0.86.12" />
+          <element id="library" level="project" name="Gradle: org.junit.platform:junit-platform-commons:1.8.1" />
+          <element id="library" level="project" name="Gradle: org.opentest4j:opentest4j:1.2.0" />
+          <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.4.10" />
+          <element id="library" level="project" name="Gradle: org.hamcrest:hamcrest-core:1.3" />
+          <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.10" />
+          <element id="library" level="project" name="Gradle: org.jetbrains:annotations:13.0" />
+          <element id="library" level="project" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.8.1" />
+          <element id="library" level="project" name="Gradle: io.grpc:grpc-alts:1.45.0" />
+          <element id="library" level="project" name="Gradle: io.grpc:grpc-auth:1.45.0" />
+          <element id="library" level="project" name="Gradle: io.grpc:grpc-core:1.45.0" />
+          <element id="library" level="project" name="Gradle: io.grpc:grpc-grpclb:1.45.0" />
+          <element id="library" level="project" name="Gradle: io.grpc:grpc-netty-shaded:1.45.0" />
+          <element id="library" level="project" name="Gradle: io.grpc:grpc-services:1.45.0" />
+          <element id="library" level="project" name="Gradle: org.apache.httpcomponents:httpclient:4.5.13" />
+          <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Gradle: commons-codec:commons-codec:1.15" />
+          <element id="library" level="project" name="Gradle: org.apache.httpcomponents:httpcore:4.4.15" />
+          <element id="library" level="project" name="Gradle: org.conscrypt:conscrypt-openjdk-uber:2.5.1" />
+          <element id="library" level="project" name="Gradle: io.perfmark:perfmark-api:0.23.0" />
+          <element id="library" level="project" name="Gradle: com.google.android:annotations:4.1.1.4" />
+          <element id="library" level="project" name="Gradle: org.codehaus.mojo:animal-sniffer-annotations:1.21" />
+          <element id="library" level="project" name="Gradle: io.grpc:grpc-xds:1.45.0" />
+          <element id="library" level="project" name="Gradle: com.google.re2j:re2j:1.5" />
+          <element id="library" level="project" name="Gradle: org.bouncycastle:bcpkix-jdk15on:1.67" />
+          <element id="library" level="project" name="Gradle: org.bouncycastle:bcprov-jdk15on:1.67" />
+          <element id="library" level="project" name="Gradle: io.opencensus:opencensus-proto:0.2.0" />
+          <element id="library" level="project" name="Gradle: org.junit.platform:junit-platform-engine:1.8.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
