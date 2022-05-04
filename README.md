@@ -11,7 +11,7 @@ A sassy sexy chatter bot that rants and also tells the weather.
 
 ## STEPS
 
-- [ ] [Clone the repo](git clone https://github.com/ahmedsaheed/sassy-chitchatBot.git)
+- [ ] [Clone the repo](https://github.com/ahmedsaheed/sassy-chitchatBot.git)
 - [ ] [Get your keys from above listed libraries]
 - [ ] [Add your keys appropriately]
 
