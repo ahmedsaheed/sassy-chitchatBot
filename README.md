@@ -26,7 +26,7 @@ A simple voice assistant for casual discussions and weather telling.
 
 
 ## Authors and acknowledgment
-Thanks to[Muaricio Murta](https://github.com/MMPodesta) for contributing and supports
+Thanks to [Muaricio Murta](https://github.com/MMPodesta) for contributing and supports
 
 ## License
 For open source projects, say how it is licensed.
