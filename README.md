@@ -12,8 +12,8 @@ A sassy sexy chatter bot that rants and also tells the weather.
 ## STEPS
 
 - [ ] [Clone the repo](https://github.com/ahmedsaheed/sassy-chitchatBot.git)
-- [ ] [Get your keys from above listed libraries]
-- [ ] [Add your keys appropriately]
+- [ ] Get your keys from above listed libraries
+- [ ] Add your keys appropriately
 
 
 ## Test and Deploy
@@ -26,7 +26,7 @@ A simple voice assistant for casual discussions and weather telling.
 
 
 ## Authors and acknowledgment
-Thanks to @MMPodesta for contributing and supports
+Thanks to[Muaricio Murta](https://github.com/MMPodesta) for contributing and supports
 
 ## License
 For open source projects, say how it is licensed.
