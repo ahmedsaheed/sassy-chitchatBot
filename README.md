@@ -1,6 +1,6 @@
 # Atlas
 
-A sassy sexy chatter bot that rants and also tells the weather. 
+👾 A sassy sexy chatter bot that rants and also tells the weather. 
 
 ## External Libraries
 - [ ] [Google TTS](https://cloud.google.com/text-to-speech)
